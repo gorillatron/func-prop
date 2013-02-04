@@ -16,7 +16,7 @@ fighters.map( prop('name') )
 
 ```
 
-### invoke.backbone
+### prop.backbone
 
 Allso works with backbone style model objects that has the method get
 
